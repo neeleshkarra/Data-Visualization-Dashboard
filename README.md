@@ -22,7 +22,7 @@ The **Data Visualization Dashboard** is a full-stack web application that enable
 ## **Installation**
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-username/data-visualization-dashboard.git
+git clone https://github.com/neeleshkarra/data-visualization-dashboard.git
 cd data-visualization-dashboard
 ```
 
