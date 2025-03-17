@@ -12,12 +12,12 @@ The **Data Visualization Dashboard** is a full-stack web application that enable
 - **Deployment:** Render / Railway (Backend), Streamlit Cloud (Frontend)
 
 ## **Features**
-✅ Upload CSV files for analysis  
-✅ Fetch real-time data from an SQL database  
-✅ Display data preview with missing values & statistical summary  
-✅ Generate interactive charts (Bar, Line, Scatter, Histogram, Box Plot)  
-✅ Export charts as PNG for reporting  
-✅ Fully deployed for easy access  
+✅ Upload CSV files for analysis.  
+✅ Fetch real-time data from an SQL database.  
+✅ Display data preview with missing values & statistical summary.  
+✅ Generate interactive charts (Bar, Line, Scatter, Histogram, Box Plot).  
+✅ Export charts as PNG for reporting.
+✅ Fully deployed for easy access. 
 
 ## **Installation**
 ### **1️⃣ Clone the Repository**
