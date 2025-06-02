@@ -1,7 +1,7 @@
 # 📊 Data Visualization Dashboard
 
 ## **Overview**
-The **Data Visualization Dashboard** is a full-stack web application that enables users to upload CSV datasets or fetch data from an SQL database for interactive analysis. The dashboard provides data previews, statistical summaries, and various visualization options to help users explore insights efficiently.
+The **Data Visualization Dashboard** is a full-stack web application that enables users to upload CSV datasets or fetch data from an SQL database for interactive analysis. and dashboard provides data previews, statistical summaries, and various visualization options to help users explore insights efficiently.
 
 ## **Tech Stack**
 - **Frontend:** Streamlit
