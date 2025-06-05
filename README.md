@@ -59,19 +59,19 @@ streamlit run dashboard.py
 - Push code to GitHub
 - Connect GitHub repo to Render
 - Set **Start Command:** `gunicorn app:app`
-- Deploy & get backend URL
+- Deploy & get backend URL.
 
 ### **Frontend (Streamlit) on Streamlit Cloud**
-- Go to Streamlit Cloud
-- Connect GitHub repo
-- Deploy `dashboard.py`
-- Update `BASE_URL` in `dashboard.py` with Flask API URL
+- Go to Streamlit Cloud.
+- Connect GitHub repo.
+- Deploy `dashboard.py`.
+- Update `BASE_URL` in `dashboard.py` with Flask API URL.
 
 ## **Future Enhancements**
-- [ ] Export reports as PDF
-- [ ] Add AI-based insights & predictions
-- [ ] Enhance UI with theme customization
-- [ ] Implement user authentication
+- [ ] Export reports as PDF.
+- [ ] Add AI-based insights & predictions.
+- [ ] Enhance UI with theme customization.
+- [ ] Implement user authentication.
 
 
 
